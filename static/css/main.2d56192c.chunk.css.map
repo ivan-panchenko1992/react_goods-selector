@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,qBAAsB,CACvB,QAEC,YAAa","file":"main.2d56192c.chunk.css","sourcesContent":[".Good {\n  background-color: blue;\n}\n.Button {\n  display: none;\n}"]}
